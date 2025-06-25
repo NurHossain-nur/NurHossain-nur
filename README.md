@@ -63,9 +63,9 @@ Here are some of my best projects:
 
 | Project | Description | Live | Code |
 |--------|-------------|------|------|
-| 🌱 Gardening Hub | Full-stack gardening tips & community app | [Live Site](https://gardening-hub.netlify.app) | [Client](https://github.com/NurHossain-nur/gardening-client) / [Server](https://github.com/NurHossain-nur/gardening-server) |
-| ⭐ Service Review Platform | Users can add, review, and manage services | [Live Site](https://service-review.netlify.app) | [Client](https://github.com/NurHossain-nur/service-review-client) / [Server](https://github.com/NurHossain-nur/service-review-server) |
-| 🎮 GTA 6 Game Subscriptions | Game-based subscription platform with auth | [Live Site](https://gta6-sub.netlify.app) | [Client](https://github.com/NurHossain-nur/gta6-client) / [Server](https://github.com/NurHossain-nur/gta6-server) |
+| 🌱 Gardening Hub | Full-stack gardening tips & community app | [Live Site](https://garden-hub-f812a.web.app) | [Client](https://github.com/NurHossain-nur/garden-hub-client) / [Server](https://github.com/NurHossain-nur/garden-hub-server) |
+| ⭐ Service Review Platform | Users can add, review, and manage services | [Live Site](https://service-revew.web.app) | [Client](https://github.com/NurHossain-nur/service-review-client) / [Server](https://github.com/NurHossain-nur/service-review-server) |
+| 🎮 GTA 6 Game Subscriptions | Game-based subscription platform with auth | [Live Site](https://sublygta6.netlify.app) | [Client](https://github.com/NurHossain-nur/subly) / [Server] |
 
 > *More projects available on my GitHub repositories.*
 

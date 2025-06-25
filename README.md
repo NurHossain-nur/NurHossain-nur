@@ -65,7 +65,7 @@ Here are some of my best projects:
 |--------|-------------|------|------|
 | 🌱 Gardening Hub | Full-stack gardening tips & community app | [Live Site](https://garden-hub-f812a.web.app) | [Client](https://github.com/NurHossain-nur/garden-hub-client) / [Server](https://github.com/NurHossain-nur/garden-hub-server) |
 | ⭐ Service Review Platform | Users can add, review, and manage services | [Live Site](https://service-revew.web.app) | [Client](https://github.com/NurHossain-nur/service-review-client) / [Server](https://github.com/NurHossain-nur/service-review-server) |
-| 🎮 GTA 6 Game Subscriptions | Game-based subscription platform with auth | [Live Site](https://sublygta6.netlify.app) | [Client](https://github.com/NurHossain-nur/subly) / [Server] |
+| 🎮 GTA 6 Game Subscriptions | Game-based subscription platform with auth | [Live Site](https://sublygta6.netlify.app) | [Client](https://github.com/NurHossain-nur/subly) / N/A |
 
 > *More projects available on my GitHub repositories.*
 
@@ -109,7 +109,7 @@ Here are some of my best projects:
 
 ## 🤝 Let's Connect
 
-- 🌐 Portfolio: Coming Soon
+- 🌐 Portfolio: [nurhossain.dev](#) (Coming Soon)
 - 📧 Email: [nur.hossain.dev@email.com](mailto:nur.hossain.dev@email.com)
 - 📱 WhatsApp: [+8801701593102](https://wa.me/8801701593102)
 - 💬 LinkedIn: [Nur Hossain](https://www.linkedin.com/in/nur-hossain-nur) 
